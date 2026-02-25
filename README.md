@@ -58,11 +58,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
----
-
-## 🔥 GitHub Streak
+## 📊 GitHub Stats & 🔥 Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=withaman&theme=tokyonight&hide_border=true"/>
@@ -74,14 +70,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=withaman&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-## 📈 Profile Hit Counter
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/withaman&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Hits&edge_flat=false"/>
 </p>
 
 ---
